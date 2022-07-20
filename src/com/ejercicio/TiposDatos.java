@@ -48,7 +48,6 @@ public class TiposDatos {
 		System.out.println("3. Texto  \n");		
 		System.out.println(varChar);
 		System.out.println(varString);
-		
-		
+		System.out.println("Texto");
 	} 
 }
